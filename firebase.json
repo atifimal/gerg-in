@@ -5,6 +5,11 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ]
+    ],
+    "redirects": [ {
+      "source": "/erdem",
+      "destination": "https://youtu.be/qHGgEF-1zNc?t=249",
+      "type": 301
+    } ]
   }
 }
