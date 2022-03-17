@@ -7,11 +7,12 @@ body {
 }
 
 .page-heading {
-    margin: 7vh 0;
+    margin: 1vh 0;
     transform: skewY(-5deg);
+    font-size: 2vh;
     text-align: center;
     color: rgba(255,255,255,0.5);
-    text-shadow: 3px 3px rgb(255 31 220 / 50%);
+    text-shadow: .4vh .4vh rgb(255 31 220 / 50%);
     background: rgba(255, 255, 255, 0.1);
-    padding: 1rem 2rem;
+    padding: .5vh 1vh;
 }
